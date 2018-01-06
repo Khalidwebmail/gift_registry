@@ -1,0 +1,19 @@
+
+.giftImages {
+    border: 1px solid #eee;
+    width: 100%;
+}
+
+li.imgBoxCustomAdmin {
+    list-style-type: none;
+    float:left;
+    width:29%;
+    margin-left:2%;
+}
+li.imgBoxCustomAdmin > .thumbnail:hover {
+background: #c8e1ea;
+}
+
+li.imgBoxCustomAdmin > .defaultThumbSet {
+background: #c8e1ea;
+}

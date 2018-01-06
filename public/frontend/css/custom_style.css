@@ -1,0 +1,52 @@
+
+.divHover {
+   height: 394px;
+   padding: 129px 20px;
+   text-align: center;
+}
+.divHover:hover {
+   background: #f5f5f5;
+}
+
+.profileIMGs {
+    border: 1px solid #ddd; 
+    text-align: center;
+}
+.AccountSecurity {
+    margin-top: 20px;
+}
+.userProfileImg {
+    width:100%;
+}
+.account_security_wrapper {
+    padding: 20px 5px;
+    border: 1px solid #ddd;
+}
+.manage_wishlist_wrapper {
+    padding: 20px 15px;
+    border: 1px solid #ddd;
+}
+.customProductBG {
+    background: #fff none repeat scroll 0 0 !important;
+}
+button.searchIcons {
+    top: 2px;
+}
+
+.header-custom {
+    background: rgba(246, 246, 246, 0.99) none repeat scroll 0 0;
+}
+.search_error {
+    color:#f00;
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 40px;
+        
+}
+.modal {    
+    z-index: 99999 !important;
+}
+.attdata_style {
+    border: 1px solid #f00;
+    padding: 10px;
+}
